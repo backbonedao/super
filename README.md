@@ -1,2 +1,1 @@
-# super
-Super Browser
+# Super Browser
